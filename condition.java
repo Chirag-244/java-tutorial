@@ -16,5 +16,6 @@ public class condition {
             break;
         }
         sc.close();
+        System.out.println("hello world!");
     }
 }
